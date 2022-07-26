@@ -110,6 +110,6 @@ public class Test {
 		    new Thread(runnable, "栈长").start();
 		    new Thread(runnable, "小蜜").start();
 		    
-		    //2341
+		    //234111
 	}
 }
